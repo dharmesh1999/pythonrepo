@@ -7,4 +7,4 @@ with open('ipl_league.csv', 'r') as file:
         elif((row[2] == "bat") and (row[8]==row[9])) :
             print(row)
 
-    
+print ("dharmesh"")
